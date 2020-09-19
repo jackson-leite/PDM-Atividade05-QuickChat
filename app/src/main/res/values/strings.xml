@@ -8,7 +8,7 @@
     <string name="button_login">Login</string>
     <string name="button_signup">Sign Up</string>
     <string name="programmer_information">Name: Jackson Leite\nRA: 2040481812005</string>
-    <string name="login_auth_sucess">Login sucessful!</string>
+    <string name="login_auth_sucess">Login successful!</string>
     <string name="login_auth_failure">Authentication failed!</string>
     <string name="hint_type_your_message">Type your message</string>
     <string name="app_icon_description">App Icon</string>
@@ -61,4 +61,5 @@
     <string name="sports_category">Cinema</string>
     <string name="language_category">Cinema</string>
     <string name="welcome_message_chat">Welcome to</string>
+    <string name="opening_messagem">Loading…</string>
 </resources>
